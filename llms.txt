@@ -20,7 +20,7 @@ Broker-Kontoverbindung und FAQ.
 - FAQ (6 Fragen)
 
 ## Markdown-Version
-https://mt5-download-de.com/content.md
+https://mt5-download.de/content.md
 
 ## Sprache
 Deutsch (de-DE)

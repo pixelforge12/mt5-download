@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://mt5-download-de.com/sitemap.xml
+Sitemap: https://mt5-download.de/sitemap.xml
 
 User-agent: GPTBot
 Allow: /
