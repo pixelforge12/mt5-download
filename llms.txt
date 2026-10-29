@@ -1,0 +1,29 @@
+# MetaTrader 5 Portal DE
+
+## Über diese Seite
+Informationsportal zum MetaTrader 5 Download für deutschsprachige Nutzer.
+Unabhängige Informationsquelle zu Installation, Systemanforderungen und Einrichtung
+der MetaTrader 5 Handelsplattform von MetaQuotes Software Corp.
+
+## Zweck der Seite
+Anleitung zum kostenlosen MT5 Download für Windows, macOS, Android, iOS und WebTerminal.
+Enthält Systemanforderungen, Installationsschritte, MT4-vs-MT5-Vergleich,
+Broker-Kontoverbindung und FAQ.
+
+## Inhalte
+- MT5 Download-Links für alle Plattformen
+- Systemanforderungen (Windows Desktop)
+- Schritt-für-Schritt-Installationsanleitung
+- MT4 vs. MT5 Vergleichstabelle
+- WebTerminal-Erklärung
+- Währungsrechner (live)
+- FAQ (6 Fragen)
+
+## Markdown-Version
+https://mt5-download-de.com/content.md
+
+## Sprache
+Deutsch (de-DE)
+
+## Letzte Aktualisierung
+2026-08-13
